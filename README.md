@@ -1,5 +1,12 @@
-## Hi there 👋
+## Welcome,
 
+No previous programming experience
+Translator / Interpreter [EN - pt-PT - ES] 
+Project Manager 
+
+Currently learning Java
+
+Looking to get into the cibersecurity field in the future
 <!--
 **ruben-M-work/ruben-M-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
