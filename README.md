@@ -1,11 +1,13 @@
-## Welcome,
+## Welcome 👺
 
-No previous programming experience
+No previous programming experience, a blank slate
 
-Translator / Interpreter [EN - pt-PT - ES] 
-Project Manager 
+- Translator / Interpreter [EN - pt-PT - ES] 🥸
+
+- Project Manager 🤖
 
 Currently learning Java
+Feedback, suggestions and help are appreciated
 
 Looking to get into the cibersecurity field in the future
 <!--
