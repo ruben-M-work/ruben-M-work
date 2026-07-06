@@ -1,6 +1,7 @@
 ## Welcome,
 
 No previous programming experience
+
 Translator / Interpreter [EN - pt-PT - ES] 
 Project Manager 
 
